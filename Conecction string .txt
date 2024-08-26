@@ -1,0 +1,3 @@
+Conecction string 
+        => optionsBuilder.UseMySql("server=sistemas19.com;user=sistem21_residenciasDB;password=sistemas19_;database=sistem21_residenciasDB;treattinyasboolean=true", Microsoft.EntityFrameworkCore.ServerVersion.Parse("10.5.20-mariadb"));
+
